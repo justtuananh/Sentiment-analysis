@@ -1,0 +1,26 @@
+Negative reviews:
+
+"The plot was confusing and the characters felt underdeveloped, making it hard to connect with the story."
+"The acting was subpar and the dialogue felt forced, making the whole movie cringeworthy."
+"The special effects were a disaster, it was like watching a low-budget student film."
+"I was expecting much more from this film, but it turned out to be a disappointment with a lackluster ending."
+"The pacing of the movie was terrible, with long, boring scenes that made me lose interest quickly."
+"The movie was riddled with clichés and lacked originality, making it a forgettable experience."
+"The romantic subplot felt forced and unrealistic, taking away from the overall enjoyment of the film."
+"The editing was sloppy, with awkward cuts and transitions that took me out of the story."
+"The humor in the movie fell flat, with jokes that were cringe-inducing rather than funny."
+"I couldn't connect with any of the characters, making it difficult to care about their fates or struggles."
+
+# ----------------------------------------------------------
+Positive reviews:
+
+"The cinematography was breathtaking, creating stunning visuals that enhanced the storytelling."
+"The performances of the cast were exceptional, especially the lead actor who brought depth to their character."
+"The music score added a layer of emotion to the film, complementing the scenes perfectly."
+"The plot was gripping from start to finish, with unexpected twists that kept me on the edge of my seat."
+"The attention to detail in the set design and costumes transported me to the world of the film."
+"The character development was superb, allowing me to connect with the protagonists and their journey."
+"The film successfully balanced action and emotion, delivering thrilling sequences alongside touching moments."
+"The pacing was spot-on, keeping me engaged throughout and building anticipation for the climax."
+"The movie tackled important themes with sensitivity, leaving me with a sense of reflection and depth."
+"The witty and well-written dialogue added humor and authenticity to the interactions between characters."
